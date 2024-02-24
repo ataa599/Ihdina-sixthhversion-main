@@ -1,0 +1,94 @@
+.container_custom {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+}
+
+.color{
+    /* background-color: green; */
+    text-align: center;
+}
+
+.shariah{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    /* margin: 20px; */
+}
+
+.card{
+    background-color: azure;
+}
+
+.button{
+    margin-left: 10px;
+}
+
+.custom-card {
+    min-width: 200px;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.text{
+    text-decoration: underline;
+    text-shadow: 0cap;
+    color: goldenrod;
+    
+}
+.nav-text{
+    color: goldenrod;
+}
+
+.center-iframe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust the height as needed */
+}
+
+.center-iframe iframe {
+  width: 800px; /* Set your desired width */
+  height: 480px; /* Set your desired height */
+  border: 0; /* Remove the iframe border if needed */
+}
+
+/* .card_n {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    background-color:  #dfda98;
+  }
+  
+  .card-image {
+    width: 100%;
+    border-radius: 50%;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
+  .card-description {
+    margin-top: 20px;
+  }
+  
+  .toggle-description {
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .full-description {
+    display: none;
+    margin-top: 20px;
+  } */
+  

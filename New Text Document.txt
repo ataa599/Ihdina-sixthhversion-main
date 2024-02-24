@@ -1,0 +1,10 @@
+1) change pakistan office address
+2) redesign the team page
+3) design cutomer page . Take each logo from internet in png format
+4) change the color which looks more green. 
+5) fill color in buttons in front page
+6) design previous work. add recent work in home page
+7) add facebook, linkden link in contact information
+8) chnage the color of cards to golden
+9) remove hasan junaid, form team and other people as well.
+
